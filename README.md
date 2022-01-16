@@ -18,6 +18,6 @@
 
 <br/>
 
-[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhant Desai's&show_icons=true&theme=vision-friendly-dark)](https://github.com/sidesai2001)
+[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidesai2001&show_icons=true&theme=vision-friendly-dark)](https://github.com/sidesai2001)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant Desai&show_icons=true&theme=vision-friendly-dark)](https://github.com/sidesai2001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidesai2001&show_icons=true&theme=vision-friendly-dark)](https://github.com/sidesai2001)
