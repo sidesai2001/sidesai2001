@@ -19,10 +19,10 @@
 <br/>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidesai2001&show_icons=true&locale=en&layout=compact" alt="sidesai2001" /></p> -->
 
-[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidesai2001&show_icons=true&theme=vision-friendly-dark)](https://github.com/sidesai2001)
+[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhant's&show_icons=true&theme=vision-friendly-dark)](https://github.com/sidesai2001)
 
 
 <br/>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidesai2001&show_icons=true&locale=en" alt="Siddhant's" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidesai2001&show_icons=true&locale=en" alt="sidesai2001" /></p> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidesai2001&show_icons=true&theme=vision-friendly-dark)](https://github.com/sidesai2001)
