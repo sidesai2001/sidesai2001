@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Desai</h1>
-<h3 align="center">A passionate developer and a Goan tech Boi from India</h3>
+<h3 align="center">A passionate developer and a Goan tech guy from India</h3>
 
 
 <p align="left"> <a href="https://twitter.com/SiddhantDesai14" target="blank"><img src="https://img.shields.io/twitter/follow/SiddhantDesai14?logo=twitter&style=for-the-badge" alt="SiddhantDesai14" /></a> </p>
